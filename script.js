@@ -1,4 +1,4 @@
-const token = 'YOUR_BOT_TOKEN';
+const token = '7261765188:AAFSeJv6hkFNURsgDC27GG3EQpwTheBi-JQ';
 const students = new Map();
 
 function fetchStudents() {
